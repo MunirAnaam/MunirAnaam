@@ -7,6 +7,6 @@
 - ⚡ Fun fact: do not have one
 
 <!---
-MunirAnaam/MunirAnaam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Munir Anaam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
